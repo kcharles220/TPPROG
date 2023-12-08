@@ -1,0 +1,3 @@
+C:/Users/king_/Desktop/escola/1Ano/2Semestre/Prog/Ultimate_Tic_Tac_Toe/cmake-build-debug/CMakeFiles/jogogalo.dir
+C:/Users/king_/Desktop/escola/1Ano/2Semestre/Prog/Ultimate_Tic_Tac_Toe/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/king_/Desktop/escola/1Ano/2Semestre/Prog/Ultimate_Tic_Tac_Toe/cmake-build-debug/CMakeFiles/rebuild_cache.dir
